@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="b4a.example">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/B4A/Objects/bin/extra/compiled_resources/b4a.example.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
